@@ -17,7 +17,7 @@ welcome to my github page ...
 
 🔧 database
 
-    mongodb, mysql
+    mongodb, mysql, redis
 
 🌝 frontend 
 
