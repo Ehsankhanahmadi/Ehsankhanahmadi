@@ -12,6 +12,7 @@
 
 ---
 
+<p align="center">
 ![DRF](https://img.shields.io/badge/DRF-red?style=for-the-badge)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
