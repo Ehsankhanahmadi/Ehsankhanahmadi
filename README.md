@@ -21,3 +21,4 @@
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+</p>
