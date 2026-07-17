@@ -2,15 +2,13 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=developer;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Even+Satan+was+a+bug+in+creation.;So+don't+worry+about+your+own+bugs." />
 
 </p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,php,html,css,sass,bootstrap,tailwind,react,nextjs,redux,vite,django,fastapi,express,graphql,postgres,mysql,sqlite,mongodb,redis,docker,git,github,linux,vscode,postman,aws&perline=8" />
 </p>
-
----
 
 <p align="center">
 
