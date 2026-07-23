@@ -13,8 +13,6 @@
 <p align="center">
 
   <img src="https://img.shields.io/badge/DRF-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge" />
