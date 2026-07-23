@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,php,html,css,sass,bootstrap,tailwind,react,nextjs,redux,vite,django,fastapi,express,graphql,postgres,mysql,sqlite,mongodb,sql,redis,docker,git,github,linux,vscode,postman,aws&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,php,html,css,sass,bootstrap,tailwind,react,nextjs,redux,vite,django,fastapi,express,graphql,postgres,mysql,sqlite,mongodb,redis,docker,git,github,linux,vscode,postman,aws&perline=8" />
 </p>
 
 <p align="center">
