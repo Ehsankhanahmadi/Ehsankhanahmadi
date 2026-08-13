@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Even+Satan+was+a+bug+in+creation.;So+don't+worry+about+your+own+bugs." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=you+need+to+do+is+find+yourself;Everything+else+is+on+Google"/>
 
 </p>
 
